@@ -1,0 +1,4 @@
+12:57:25.578 [main] ERROR alpha.Demo - Object is not present
+12:57:25.579 [main] FATAL alpha.Demo - This is fatal
+12:59:40.353 [main] ERROR alpha.Demo - Object is not present
+12:59:40.354 [main] FATAL alpha.Demo - This is fatal

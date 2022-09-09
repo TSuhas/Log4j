@@ -1,0 +1,9 @@
+14:44:07.179 [main] FATAL beta.Demo1 - button is missing
+14:48:59.764 [main] DEBUG beta.Demo1 - I am clicking on button
+14:48:59.765 [main] INFO  beta.Demo1 - button  is present
+14:48:59.766 [main] ERROR beta.Demo1 - button is not present
+14:48:59.766 [main] FATAL beta.Demo1 - button is missing
+14:49:07.377 [main] DEBUG beta.Demo1 - I am clicking on button
+14:49:07.379 [main] INFO  beta.Demo1 - button  is present
+14:49:07.379 [main] ERROR beta.Demo1 - button is not present
+14:49:07.379 [main] FATAL beta.Demo1 - button is missing
